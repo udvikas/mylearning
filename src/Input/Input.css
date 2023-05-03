@@ -1,0 +1,25 @@
+.topcover {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  background-color: bisque;
+  text-align: center;
+  padding: 0.5rem 0.5rem;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.qty {
+    display: flex;
+    justify-content: space-between;
+}
+.qty input {
+    justify-content: space-between;
+    width: 30px;
+}
+button {
+    font-weight: 600;
+    margin-right: 2rem;
+}
+label {
+    font-weight: 500;
+}

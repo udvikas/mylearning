@@ -1,0 +1,22 @@
+
+.cover {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100%;
+    background-color: aliceblue;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
+  .qtySize {
+    display: flex;
+    justify-content: space-between;
+  }
+  .qtySize button {
+    color: azure;
+    background-color: rgb(146, 202, 35);
+    font-weight: bold;
+  }
+  .qtySize button:hover {
+    background-color: rgb(94, 131, 38);
+  }
